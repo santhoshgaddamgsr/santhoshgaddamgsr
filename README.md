@@ -1,13 +1,13 @@
 # Hi, I'm Santhosh 👋
 
-**AI/ML Engineer | LLM & Agentic Systems | RAG | Generative AI**
+**AI/ML Engineer | LLM & Agentic Systems | RAG | Local & Cloud AI**
 
 I design and build AI systems focusing on:
 
 - LLM reasoning architectures
 - Retrieval-Augmented Generation (RAG)
 - Agentic workflows
-- Local & cloud LLM deployment
+- Local LLM infrastructure (Ollama, on-device inference)
 - Production-style AI solutions
 
 ---
